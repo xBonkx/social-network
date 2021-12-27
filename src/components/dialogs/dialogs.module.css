@@ -1,0 +1,13 @@
+.content {
+    box-sizing: border-box;
+  display:grid;
+    grid-template-columns: 2fr 10fr;
+    background: #87CEEB;
+    width: 1200px;
+    padding: 20px;
+
+}
+.content img {
+
+    width: 1200px;
+}
